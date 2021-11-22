@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.first{
+    text-align: center;
+    background-color: red;
+    width: 250px;
+    height: 50px;
+}
+
+
+.fifth{
+ 
+    width: 250px;
+    height: 50px;
+}
+.container{
+    width: 800px;
+    margin: 50px auto 0;
+    display: table;
+    box-sizing: border-box;
+
+}
+.row{
+    margin:  30px 0;
+    
+
+}
+.colunm{
+    
+    display: table-cell;
+    padding: 10px;
+    width: 33.33333%;
+    
+    text-align: center;
+    vertical-align: middle;
+    border-right: 20px ;
+    border-left: 20px;
+}
+
+
